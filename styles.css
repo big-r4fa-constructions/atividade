@@ -1,4 +1,10 @@
+element.style {
+    background-color: black;
+}
+
 body{
+    display: block;
+    margin: 5px;
     color: white;
     background-color: black;
 }
