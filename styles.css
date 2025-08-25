@@ -1,10 +1,4 @@
-element.style {
-    background-color: black;
-}
-
 body{
-    display: block;
-    margin: 5px;
+    background: black;
     color: white;
-    background-color: black;
 }
